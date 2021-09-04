@@ -20,7 +20,7 @@ Workday Scheduler is designed to help one to manage their schedule effectively. 
 
 ## Code Sample <a name = "code-sample"></a>
 
-![Sample Code](https://github.com/nicoguarino/codequiz/blob/main/assets/image/code_sampel.png "Sample Code")
+![Sample Code](https://github.com/nicoguarino/workday-scheduler/blob/main/assets/images/code_sample.png "Sample Code")
 
 ### Sample Code
 ```HTML Sample
